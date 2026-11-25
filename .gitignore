@@ -1,0 +1,51 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+.venv_check/
+venv/
+env/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables and secrets
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables and secrets
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db

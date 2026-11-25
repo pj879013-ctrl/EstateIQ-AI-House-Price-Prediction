@@ -1,0 +1,23 @@
+{
+    "algorithm": "Linear Regression",
+    "features": [
+        "Area",
+        "Bedrooms",
+        "Bathrooms",
+        "Age"
+    ],
+    "intercept": -491424.8065258276,
+    "coefficients": [
+        3737.0285156522355,
+        52033.46580213347,
+        106704.59457575038,
+        -3055.427734783405
+    ],
+    "evaluation": {
+        "test_mae": 117114.06434714957,
+        "test_r2": 0.9850697513936757,
+        "training_records": 16,
+        "testing_records": 4,
+        "total_records": 20
+    }
+}
